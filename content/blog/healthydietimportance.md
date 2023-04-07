@@ -1,7 +1,7 @@
 ---
 title: "Why a Healthy Diet and Nutrition is Important"
 date: 2022-01-06T11:18:32+06:00
-featureImage: images/blog/blog-thumb-1.jpg
+featureImage: images/blog/healthydiet.jpg
 tags: ["Diet","Nutritions", "Wellbeing"]
 ---
 

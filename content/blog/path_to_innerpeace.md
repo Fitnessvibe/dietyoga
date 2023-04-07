@@ -1,8 +1,8 @@
 ---
 title: "Yoga: The Path to Inner Peace and Physical Wellness"
 date: 2022-01-06T11:16:38+06:00
-featureImage: images/blog/blog-thumb-1.jpg
-tags: [ "Yoga" ]
+featureImage: images/blog/yoga3.jpeg
+tags: [ "Yoga", "Inner Peace", "Wellbeing" ]
 --- 
 Yoga is a practice that has been around for thousands of years, originating in ancient India. Over the years, it has evolved and become popular worldwide as a form of exercise and stress relief. Whether you are a seasoned yogi or a beginner, yoga has something to offer for everyone.
 

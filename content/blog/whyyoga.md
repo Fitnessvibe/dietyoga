@@ -1,8 +1,8 @@
 ---
 title: "Importance Of Yoga Practice"
 date: 2022-01-06T11:17:17+06:00
-featureImage: images/blog/blog-thumb-3.jpg
-tags: ["Marketing", "Web Design"]
+featureImage: images/blog/yoga1.jpeg
+tags: ["Wellbeing", "Yoga"]
 ---
 Yoga is not just a physical practice, but a tool for transformation that can help individuals reach their highest potential and experience a sense of inner peace and well-being.
 

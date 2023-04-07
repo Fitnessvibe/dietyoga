@@ -1,8 +1,8 @@
 ---
 title: "Benefits of Regular Yoga Practice"
 date: 2022-01-06T11:15:47+06:00
-featureImage: images/blog/blog-thumb-2.jpg
-tags: ["Marketing", "Web Design"]
+featureImage: images/blog/yoga2.jpeg
+tags: ["Yoga", "Wellbeing"]
 ---
 
 Yoga is also an excellent form of exercise for improving cardiovascular health. Certain types of yoga, such as Vinyasa or Power Yoga, can get your heart rate up and improve your overall cardiovascular fitness. Additionally, regular yoga practice has been shown to help lower blood pressure and improve circulation.

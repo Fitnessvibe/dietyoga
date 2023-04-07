@@ -64,7 +64,11 @@ title = 'Niharika Diet Clinit & Yoga Studio'
 
   [params.map]
   gmaplink = "Go to contact adress html file and update ifram link directly"
-  
+  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  latitude = "45.4502528"
+  longitude = "-122.783407"
+  pinImage = "images/pin.png"
+
   # Socail icons
   [[params.social]]
   icon = "ti-facebook"

@@ -28,9 +28,7 @@ jobs:
         run: hugo --baseURL https://diet.fitnessvibe.in/
            
       - name: GitHub Pages Deploy
-        uses: crazy-max/ghaction-github-pages@v2.5.0
-        with:
-          target_branch: gh-pages
-          build_dir: public
+        uses: reuixiy/hugo-deploy@v1
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          DEPLOY_BRANCH: gh-pages
+          DEPLOY_KEY: ${{ secrets.GITHUB_TOKEN }}

@@ -2,20 +2,22 @@
 enable: true
 title: "Frequently Asked Questions"
 faq:
-  - question: "Q. How do I apply?"
+  - question: "Q. What services do you offer?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Where can I find out about funding?"
+            We offer personalized diet plans, yoga classes, coaching and support, online consultations, and community support to help you achieve your health and wellness goals.
+  - question: "Q. How do you create personalized diet plans?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How can I make a change to my application?"
+            Our team of experienced dietitians and nutritionists will assess your body type, blood test reports, imbalances, health history, and goals to create a customized plan that works for you.
+  - question: "Q. What types of yoga do you offer?"
     answer: >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
-            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
-  - question: "Q. What are entry requirements?"
+            We offer a range of yoga styles, including Hatha, Vinyasa, Restorative, and Yin yoga, taught by experienced instructors.
+  - question: "Q. Do I need to have experience with yoga to join?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How do I get a reference?"
+            No, we welcome students of all levels, from beginners to advanced practitioners.
+  - question: "Q. Is online coaching and support available?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+            Yes, we offer online coaching and support through virtual consultations over whatsapp or calls.
+  - question: "Q. How do I get started?"
+    answer: >
+            Contact us to schedule an initial consultation with one of our experienced team members to discuss your goals and needs, and learn how we can help you achieve optimal health and wellness.
 ---

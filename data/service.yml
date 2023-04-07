@@ -2,37 +2,35 @@
 enable: true
 title: "Why Choose us?"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+          Choose us for a holistic approach to health and wellness that offers personalized, evidence-based, and convenient services tailored to your unique needs and goals.
+          With an Ayurvedic diet plan, you can achieve optimal health and well-being through a personalized approach to nutrition.
 services:
-  - name: "largest Network"
+  - name: "Experience and Expertise"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                Experienced and certified your team of dietitians, nutritionists, and yoga instructors.
+    icon: "ti-crown"
+  - name: "Ayurvedic Approach"
+    description: >
+                Ayurvedic diet plans are a unique approach to nutrition that focuses on balancing the body, mind, and spirit through the foods we eat. Based on the ancient Indian system of Ayurveda, these diet plans are tailored to an individual's unique body type and imbalances, with the goal of promoting optimal health and wellness. 
     icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+  - name: "Holistic Approach:"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                We take a holistic approach to health and wellness by addressing not just physical health, but also mental, emotional, and spiritual well-being.
     icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
+  - name: "Customized Plans"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                We provide personalized plans tailored to each customer's unique needs and goals by takeing into account factors like age, health history, lifestyle, and preferences when creating customized plans.
     icon: "ti-help-alt"
-  - name: "Easy Payment"
+  - name: "Evidence-based Practice"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
+                We use evidence-based practices and the latest research in nutrition and yoga to create effective plans. 
+    icon: "ti-star"
+  - name: "Always Available"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
+                We understand that life can be busy, which is why we offer convenient and accessible services. With online consultations, virtual yoga classes, and flexible scheduling options, you can fit health and wellness into your busy life
+    icon: "ti-comments"
+  - name: "Regular Checkins & Followups"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
+                We are proud to offer a supportive environment where our customers can achieve their goals. With ongoing support, encouragement, and accountability through regular check-ins, coaching, and community support, you can be confident that you have the tools and resources you need to succeed.
     icon: "ti-image"
 ---

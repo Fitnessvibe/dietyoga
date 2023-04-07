@@ -1,14 +1,13 @@
 ---
-enable: true
-title: "Our Angel Investors"
+enable: false
+title: "Our Team"
 subtitle: >
-          Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, 
-          convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.
+          Experiences Doctors & Professionals
 investor:
-  - name: "Spider Web"
-    post: "investor"
+  - name: "Niharika Singh"
+    post: "Dietician , Women Wellness Expert"
     image: "images/team/design-team-01.jpg"
-  - name: "yrban"
+  - name: "Dr. "
     post: "investor"
     image: "images/team/design-team-02.jpg"
   - name: "staticsoft"

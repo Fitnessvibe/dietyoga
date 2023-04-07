@@ -1,8 +1,8 @@
 ---
 enable: true
 testimonial:
-  - author: "TechCrunch"
-    testimonialDetails: "Behind every great product, there is a great mind"
-  - author: "Yarnban"
-    testimonialDetails: "Behind every great product, there is a great mind"
+  - author: "Shruti Singh"
+    testimonialDetails: "The team at Niharika's Diet Clinit & Yoga Studio truly cares about their client's health and wellness. The personalized attention and customized plans make all the difference. I highly recommend their services to anyone looking for a holistic approach to health and wellness."
+  - author: "Anjali Sinha"
+    testimonialDetails: "I've tried countless diets and exercise plans, but nothing seemed to work until I found this diet clinic and yoga studio. The ayurvedic plans, personalized attention, and ongoing support have helped me achieve my goals and transform my life. Thank you!"
 ---

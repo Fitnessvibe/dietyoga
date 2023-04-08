@@ -1,0 +1,29 @@
+{{ $address := .Site.Params.address}}
+<section class="contact" id="contact">
+  <div class="container-fulid">
+    <div class="row no-gutters">
+      <div class="col-lg-6">
+        {{ $map := .Site.Params.map }}
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13720.171449902255!2d76.6536439!3d30.7171954!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fef5164f23143%3A0x894e36b0b8c90233!2sNiharika&#39;s%20Diet%20Clinic%20%26%20Yoga%20Center!5e0!3m2!1sen!2sus!4v1680902308627!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+      <div class="col-lg-6">
+        <div class="contact-aria">
+          <h3>
+            {{ $address.address | safeHTML }}
+          </h3>
+          <ul>
+            <li>Email <a href="mailto:{{ $address.email }}">{{ $address.email }}</a></li>
+            <br/>
+            <li>Call <a href="tel:{{ $address.phonenumber}}">{{ $address.phone }}</a></li>
+            <br/>
+            <li>
+              Chat on WhatsApp <a href="whatsapp://send?text=Hello I want to enquire about niharika's diet clinic and yoga studio!&phone={{ $address.phonenumber}}">{{ .Site.Params.address.phone}}</a>
+            </li>
+          </ul>
+          <p>{{ $address.openingDesc }}</p>
+          <p>{{ $address.openingHours }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

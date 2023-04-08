@@ -1,0 +1,18 @@
+{{define "main"}}
+<section class="contact-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto col-md-12">
+        <div class="page-header">
+          <h2> {{ .Title }}</h2>
+          <p>{{.Params.subTitle}}</p>
+          <br/>
+          <p><b>Chat on WhatsApp</b><a href="whatsapp://send?text=Hello I want to enquire about niharika's diet clinic and yoga studio&phone={{ .Site.Params.address.phonenumber }}"> {{ .Site.Params.address.phone }} </a></p>
+          <br/>
+          <p><b>Call Us at </b><a href="tel:{{ .Site.Params.address.phonenumber }}">{{ .Site.Params.address.phone }}</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}

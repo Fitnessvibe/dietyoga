@@ -1,3 +1,4 @@
+{{ $address := .Site.Params.address}}
 {{with .Site.Data.hero}}
 {{if .enable}}
   <section class="hero" style="background-image: url( {{ .heroBGimg }} );">
@@ -9,7 +10,7 @@
             <p>
               {{.subtitle}}
             </p>
-
+            {{if .heroVideo}}
             <div class="hero-video-player">
               <div class="hero-video-player-icon">
                 <a class="popup-vimeo" href="{{ .heroVideo }}">
@@ -17,6 +18,16 @@
                 </a>
               </div>
               {{ .herosVideoDesc | safeHTML }}
+            </div>
+            {{end}}
+
+            <div class="hero-video-player">
+              <div class="hero-video-player-icon">
+                <a href="whatsapp://send?text=Hello I want to enquire about niharika's diet clinic and yoga studio!&phone={{ $address.phonenumber }}">
+                  <img src="images/whatsappsmall.png"/>
+                </a>
+              </div>
+              <b style="color:white">Call {{ $address.phone | safeHTML  }}</b>
             </div>
           </div>
         </div>

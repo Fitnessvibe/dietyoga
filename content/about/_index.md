@@ -4,9 +4,9 @@ date: 2022-01-08T10:41:03+06:00
 subTitle: >
         Niharika's Diet Clinic provides personalized and effective nutrition services to its clients.
 sliderImage:
-  - image: "images/stor/story-01.jpg"
-  - image: "images/stor/story-01.jpg"
-  - image: "images/stor/story-01.jpg"
+  - image: "images/stor/transformation8.webp"
+  - image: "images/stor/transformation10.jpeg"
+  - image: "images/stor/transformation3.webp"
 ---
 ## Why Choose Us.
 

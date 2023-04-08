@@ -13,7 +13,7 @@ services:
     description: >
                 Ayurvedic diet plans are a unique approach to nutrition that focuses on balancing the body, mind, and spirit through the foods we eat. Based on the ancient Indian system of Ayurveda, these diet plans are tailored to an individual's unique body type and imbalances, with the goal of promoting optimal health and wellness. 
     icon: "ti-view-grid"
-  - name: "Holistic Approach:"
+  - name: "Holistic Approach"
     description: >
                 We take a holistic approach to health and wellness by addressing not just physical health, but also mental, emotional, and spiritual well-being.
     icon: "ti-infinite"
